@@ -1,6 +1,5 @@
 # Todos List Using reactJs
 
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -17,5 +16,4 @@ You will also see any lint errors in the console.
 ## Learn More About Developer
 
 You can learn more about me [Dambar Shah](https://facebook.com/bikash981040).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
